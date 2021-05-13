@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: darkgrey;
+}
+#sort{
+display: none;
+}
+input{
+    margin-top: 10px;
+}
+button{
+    margin-top: 10px;
+}
